@@ -3,7 +3,7 @@ import librosa
 import soundfile as sf
 
 # 设置音频文件夹路径
-audio_folder = 'YOU-PATH'  # 替换为你自己的文件夹路径
+audio_folder = 'YOUR-PATH'  # 替换为你自己的文件夹路径
 # audio_folder = 'path_to_audio_folder'  # 替换为你自己的文件夹路径
 
 # 获取文件夹中所有音频文件
